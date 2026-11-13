@@ -1,0 +1,196 @@
+{
+  "voice": "bn-BD-PradeepNeural",
+  "durationMs": 11328,
+  "durationInFrames": 399,
+  "fps": 30,
+  "sentences": [
+    {
+      "type": "SentenceBoundary",
+      "text": "আপনার স্টাইলকে দিন রাজকীয় ছোঁয়া",
+      "startMs": 100,
+      "endMs": 2864
+    },
+    {
+      "type": "SentenceBoundary",
+      "text": "প্রিমিয়াম ক্রোনোগ্রাফ ঘড়ি এখন ৫০ শতাংশ ছাড়ে!",
+      "startMs": 2814,
+      "endMs": 6322
+    },
+    {
+      "type": "SentenceBoundary",
+      "text": "স্টক শেষ হওয়ার আগেই আজই অর্ডার করুন, সারা বাংলাদেশে ক্যাশ অন ডেলিভারি",
+      "startMs": 6323,
+      "endMs": 11312
+    }
+  ],
+  "captions": [
+    {
+      "text": "আপনার",
+      "startMs": 100,
+      "endMs": 577,
+      "timestampMs": 338,
+      "confidence": 1.0
+    },
+    {
+      "text": " স্টাইলকে",
+      "startMs": 577,
+      "endMs": 1339,
+      "timestampMs": 958,
+      "confidence": 1.0
+    },
+    {
+      "text": " দিন",
+      "startMs": 1339,
+      "endMs": 1625,
+      "timestampMs": 1482,
+      "confidence": 1.0
+    },
+    {
+      "text": " রাজকীয়",
+      "startMs": 1625,
+      "endMs": 2292,
+      "timestampMs": 1958,
+      "confidence": 1.0
+    },
+    {
+      "text": " ছোঁয়া",
+      "startMs": 2292,
+      "endMs": 2864,
+      "timestampMs": 2578,
+      "confidence": 1.0
+    },
+    {
+      "text": " প্রিমিয়াম",
+      "startMs": 2814,
+      "endMs": 3670,
+      "timestampMs": 3242,
+      "confidence": 1.0
+    },
+    {
+      "text": " ক্রোনোগ্রাফ",
+      "startMs": 3670,
+      "endMs": 4611,
+      "timestampMs": 4140,
+      "confidence": 1.0
+    },
+    {
+      "text": " ঘড়ি",
+      "startMs": 4611,
+      "endMs": 4953,
+      "timestampMs": 4782,
+      "confidence": 1.0
+    },
+    {
+      "text": " এখন",
+      "startMs": 4953,
+      "endMs": 5210,
+      "timestampMs": 5081,
+      "confidence": 1.0
+    },
+    {
+      "text": " ৫০",
+      "startMs": 5210,
+      "endMs": 5381,
+      "timestampMs": 5295,
+      "confidence": 1.0
+    },
+    {
+      "text": " শতাংশ",
+      "startMs": 5381,
+      "endMs": 5809,
+      "timestampMs": 5595,
+      "confidence": 1.0
+    },
+    {
+      "text": " ছাড়ে!",
+      "startMs": 5809,
+      "endMs": 6322,
+      "timestampMs": 6065,
+      "confidence": 1.0
+    },
+    {
+      "text": " স্টক",
+      "startMs": 6323,
+      "endMs": 6661,
+      "timestampMs": 6492,
+      "confidence": 1.0
+    },
+    {
+      "text": " শেষ",
+      "startMs": 6661,
+      "endMs": 6915,
+      "timestampMs": 6788,
+      "confidence": 1.0
+    },
+    {
+      "text": " হওয়ার",
+      "startMs": 6915,
+      "endMs": 7422,
+      "timestampMs": 7168,
+      "confidence": 1.0
+    },
+    {
+      "text": " আগেই",
+      "startMs": 7422,
+      "endMs": 7761,
+      "timestampMs": 7591,
+      "confidence": 1.0
+    },
+    {
+      "text": " আজই",
+      "startMs": 7761,
+      "endMs": 8014,
+      "timestampMs": 7887,
+      "confidence": 1.0
+    },
+    {
+      "text": " অর্ডার",
+      "startMs": 8014,
+      "endMs": 8522,
+      "timestampMs": 8268,
+      "confidence": 1.0
+    },
+    {
+      "text": " করুন,",
+      "startMs": 8522,
+      "endMs": 8944,
+      "timestampMs": 8733,
+      "confidence": 1.0
+    },
+    {
+      "text": " সারা",
+      "startMs": 8944,
+      "endMs": 9283,
+      "timestampMs": 9113,
+      "confidence": 1.0
+    },
+    {
+      "text": " বাংলাদেশে",
+      "startMs": 9283,
+      "endMs": 10044,
+      "timestampMs": 9663,
+      "confidence": 1.0
+    },
+    {
+      "text": " ক্যাশ",
+      "startMs": 10044,
+      "endMs": 10466,
+      "timestampMs": 10255,
+      "confidence": 1.0
+    },
+    {
+      "text": " অন",
+      "startMs": 10466,
+      "endMs": 10636,
+      "timestampMs": 10551,
+      "confidence": 1.0
+    },
+    {
+      "text": " ডেলিভারি",
+      "startMs": 10636,
+      "endMs": 11312,
+      "timestampMs": 10974,
+      "confidence": 1.0
+    }
+  ]
+}

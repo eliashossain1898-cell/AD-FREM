@@ -1,0 +1,6 @@
+{
+  "name": "AdFrame Studio",
+  "description": "Autonomous AI Commercial Video Ad Studio for 9:16 vertical Bangla Reels with Remotion, Edge-TTS neural voiceovers, frame-accurate captions, and AI product cutouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

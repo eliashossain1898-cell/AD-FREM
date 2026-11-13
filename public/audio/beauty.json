@@ -1,0 +1,175 @@
+{
+  "voice": "bn-BD-NabanitaNeural",
+  "durationMs": 10056,
+  "durationInFrames": 361,
+  "fps": 30,
+  "sentences": [
+    {
+      "type": "SentenceBoundary",
+      "text": "রুক্ষ ত্বকের সমাধান এবার হাতের মুঠোয়",
+      "startMs": 100,
+      "endMs": 3115
+    },
+    {
+      "type": "SentenceBoundary",
+      "text": "খাঁটি ভিটামিন সি সিরাম দিচ্ছে প্রাকৃতিক গ্লো",
+      "startMs": 3065,
+      "endMs": 6298
+    },
+    {
+      "type": "SentenceBoundary",
+      "text": "বিশেষ ছাড়ে আজই অর্ডার করুন, ক্যাশ অন ডেলিভারিতে",
+      "startMs": 6299,
+      "endMs": 10013
+    }
+  ],
+  "captions": [
+    {
+      "text": "রুক্ষ",
+      "startMs": 100,
+      "endMs": 571,
+      "timestampMs": 335,
+      "confidence": 1.0
+    },
+    {
+      "text": " ত্বকের",
+      "startMs": 571,
+      "endMs": 1136,
+      "timestampMs": 853,
+      "confidence": 1.0
+    },
+    {
+      "text": " সমাধান",
+      "startMs": 1136,
+      "endMs": 1702,
+      "timestampMs": 1419,
+      "confidence": 1.0
+    },
+    {
+      "text": " এবার",
+      "startMs": 1702,
+      "endMs": 2079,
+      "timestampMs": 1890,
+      "confidence": 1.0
+    },
+    {
+      "text": " হাতের",
+      "startMs": 2079,
+      "endMs": 2550,
+      "timestampMs": 2314,
+      "confidence": 1.0
+    },
+    {
+      "text": " মুঠোয়",
+      "startMs": 2550,
+      "endMs": 3115,
+      "timestampMs": 2832,
+      "confidence": 1.0
+    },
+    {
+      "text": " খাঁটি",
+      "startMs": 3065,
+      "endMs": 3490,
+      "timestampMs": 3277,
+      "confidence": 1.0
+    },
+    {
+      "text": " ভিটামিন",
+      "startMs": 3490,
+      "endMs": 4086,
+      "timestampMs": 3788,
+      "confidence": 1.0
+    },
+    {
+      "text": " সি",
+      "startMs": 4086,
+      "endMs": 4256,
+      "timestampMs": 4171,
+      "confidence": 1.0
+    },
+    {
+      "text": " সিরাম",
+      "startMs": 4256,
+      "endMs": 4682,
+      "timestampMs": 4469,
+      "confidence": 1.0
+    },
+    {
+      "text": " দিচ্ছে",
+      "startMs": 4682,
+      "endMs": 5192,
+      "timestampMs": 4937,
+      "confidence": 1.0
+    },
+    {
+      "text": " প্রাকৃতিক",
+      "startMs": 5192,
+      "endMs": 5958,
+      "timestampMs": 5575,
+      "confidence": 1.0
+    },
+    {
+      "text": " গ্লো",
+      "startMs": 5958,
+      "endMs": 6298,
+      "timestampMs": 6128,
+      "confidence": 1.0
+    },
+    {
+      "text": " বিশেষ",
+      "startMs": 6299,
+      "endMs": 6752,
+      "timestampMs": 6525,
+      "confidence": 1.0
+    },
+    {
+      "text": " ছাড়ে",
+      "startMs": 6752,
+      "endMs": 7205,
+      "timestampMs": 6978,
+      "confidence": 1.0
+    },
+    {
+      "text": " আজই",
+      "startMs": 7205,
+      "endMs": 7477,
+      "timestampMs": 7341,
+      "confidence": 1.0
+    },
+    {
+      "text": " অর্ডার",
+      "startMs": 7477,
+      "endMs": 8020,
+      "timestampMs": 7748,
+      "confidence": 1.0
+    },
+    {
+      "text": " করুন,",
+      "startMs": 8020,
+      "endMs": 8473,
+      "timestampMs": 8246,
+      "confidence": 1.0
+    },
+    {
+      "text": " ক্যাশ",
+      "startMs": 8473,
+      "endMs": 8926,
+      "timestampMs": 8699,
+      "confidence": 1.0
+    },
+    {
+      "text": " অন",
+      "startMs": 8926,
+      "endMs": 9107,
+      "timestampMs": 9016,
+      "confidence": 1.0
+    },
+    {
+      "text": " ডেলিভারিতে",
+      "startMs": 9107,
+      "endMs": 10013,
+      "timestampMs": 9560,
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    font-family: "Plus Jakarta Sans", "Hind Siliguri", system-ui, -apple-system, sans-serif;
+    color-scheme: dark;
+  }
+
+  body {
+    background-color: #09090b;
+    color: #f4f4f5;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.font-mono-tabular {
+  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+.font-bangla-ui {
+  font-family: "Hind Siliguri", "Plus Jakarta Sans", sans-serif;
+}
+
+.checkerboard-alpha {
+  background-color: #141418;
+  background-image:
+    linear-gradient(45deg, #1f1f25 25%, transparent 25%),
+    linear-gradient(-45deg, #1f1f25 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, #1f1f25 75%),
+    linear-gradient(-45deg, transparent 75%, #1f1f25 75%);
+  background-size: 16px 16px;
+  background-position: 0 0, 0 8px, 8px -8px, -8px 0;
+}

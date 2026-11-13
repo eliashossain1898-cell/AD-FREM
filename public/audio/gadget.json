@@ -1,0 +1,155 @@
+{
+  "voice": "bn-BD-PradeepNeural",
+  "durationMs": 8832,
+  "durationInFrames": 324,
+  "fps": 30,
+  "sentences": [
+    {
+      "type": "SentenceBoundary",
+      "text": "৪৫ ডেসিবল নয়েজ ক্যান্সেলেশন আর ৪০ ঘণ্টা ব্যাটারি ব্যাকআপ!",
+      "startMs": 100,
+      "endMs": 4583
+    },
+    {
+      "type": "SentenceBoundary",
+      "text": "গেমিং ও মিউজিকের সেরা সঙ্গী অ্যারোপডস প্রো এখন ধামাকা অফারে",
+      "startMs": 4533,
+      "endMs": 8812
+    }
+  ],
+  "captions": [
+    {
+      "text": "৪৫",
+      "startMs": 100,
+      "endMs": 279,
+      "timestampMs": 189,
+      "confidence": 1.0
+    },
+    {
+      "text": " ডেসিবল",
+      "startMs": 279,
+      "endMs": 817,
+      "timestampMs": 548,
+      "confidence": 1.0
+    },
+    {
+      "text": " নয়েজ",
+      "startMs": 817,
+      "endMs": 1266,
+      "timestampMs": 1041,
+      "confidence": 1.0
+    },
+    {
+      "text": " ক্যান্সেলেশন",
+      "startMs": 1266,
+      "endMs": 2342,
+      "timestampMs": 1804,
+      "confidence": 1.0
+    },
+    {
+      "text": " আর",
+      "startMs": 2342,
+      "endMs": 2521,
+      "timestampMs": 2431,
+      "confidence": 1.0
+    },
+    {
+      "text": " ৪০",
+      "startMs": 2521,
+      "endMs": 2700,
+      "timestampMs": 2610,
+      "confidence": 1.0
+    },
+    {
+      "text": " ঘণ্টা",
+      "startMs": 2700,
+      "endMs": 3148,
+      "timestampMs": 2924,
+      "confidence": 1.0
+    },
+    {
+      "text": " ব্যাটারি",
+      "startMs": 3148,
+      "endMs": 3866,
+      "timestampMs": 3507,
+      "confidence": 1.0
+    },
+    {
+      "text": " ব্যাকআপ!",
+      "startMs": 3866,
+      "endMs": 4583,
+      "timestampMs": 4224,
+      "confidence": 1.0
+    },
+    {
+      "text": " গেমিং",
+      "startMs": 4533,
+      "endMs": 4953,
+      "timestampMs": 4743,
+      "confidence": 1.0
+    },
+    {
+      "text": " ও",
+      "startMs": 4953,
+      "endMs": 5120,
+      "timestampMs": 5036,
+      "confidence": 1.0
+    },
+    {
+      "text": " মিউজিকের",
+      "startMs": 5120,
+      "endMs": 5792,
+      "timestampMs": 5456,
+      "confidence": 1.0
+    },
+    {
+      "text": " সেরা",
+      "startMs": 5792,
+      "endMs": 6127,
+      "timestampMs": 5959,
+      "confidence": 1.0
+    },
+    {
+      "text": " সঙ্গী",
+      "startMs": 6127,
+      "endMs": 6547,
+      "timestampMs": 6337,
+      "confidence": 1.0
+    },
+    {
+      "text": " অ্যারোপডস",
+      "startMs": 6547,
+      "endMs": 7302,
+      "timestampMs": 6924,
+      "confidence": 1.0
+    },
+    {
+      "text": " প্রো",
+      "startMs": 7302,
+      "endMs": 7637,
+      "timestampMs": 7469,
+      "confidence": 1.0
+    },
+    {
+      "text": " এখন",
+      "startMs": 7637,
+      "endMs": 7889,
+      "timestampMs": 7763,
+      "confidence": 1.0
+    },
+    {
+      "text": " ধামাকা",
+      "startMs": 7889,
+      "endMs": 8392,
+      "timestampMs": 8140,
+      "confidence": 1.0
+    },
+    {
+      "text": " অফারে",
+      "startMs": 8392,
+      "endMs": 8812,
+      "timestampMs": 8602,
+      "confidence": 1.0
+    }
+  ]
+}
